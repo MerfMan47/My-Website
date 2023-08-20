@@ -960,6 +960,7 @@ input, select, textarea {
 			font-weight: 600;
 			padding: 0 0.75em 0.75em 0.75em;
 			text-align: left;
+			white-space: nowrap; /* prevents wrapping of table titles*/
 		}
 
 		table thead {
